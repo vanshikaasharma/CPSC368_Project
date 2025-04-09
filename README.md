@@ -18,4 +18,14 @@ pip install scipy
 pip install numpy
 ```
 File Name 
-cpsc_368_proj.ipynb - Main notebook that performs data imports, cleaning, EDA, feature engineering, and visualizations. This is the core file for analysis.
+
+cpsc_368_proj.ipynb-	Main Jupyter Notebook performing data import, cleaning, EDA, feature engineering, and visualization. This is the core analysis file.
+Surescripts_County.csv.zip-	Raw data containing county-level eRx statistics.
+Surescripts_State.csv.zip-	Raw data with state-level prescribing and eRx metrics.
+region_urban_count.csv.zip	-Dataset categorizing U.S. counties by urban/rural designation.
+script.sql.zip	-SQL file containing queries used to extract and join relevant data from the original databases.
+README.md-	This file—providing an overview, installation instructions, and file guide.
+
+Analysis for Reasearch Question1 - lines: [29]- [48]
+Analysis for Reasearch Question2 - lines: [58]- [56]
+Analysis for Reasearch Question3 - lines: [54]- [42]
