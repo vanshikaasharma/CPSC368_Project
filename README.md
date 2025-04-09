@@ -16,6 +16,6 @@ pip install seaborn
 pip install matplotlib
 pip install scipy
 pip install numpy
-
+```
 File Name 
 cpsc_368_proj.ipynb - Main notebook that performs data imports, cleaning, EDA, feature engineering, and visualizations. This is the core file for analysis.
